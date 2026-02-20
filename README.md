@@ -36,11 +36,17 @@ BLIP = Bootstrapped Language Image Pretraining
 
 Image_Captioning_Task/
 │
+
 ├── src/
+
 │ ├── app.py # Main Streamlit application
+
 │ ├── train.py # Optional model loading test script
+
 │
+
 ├── requirements.txt
+
 ├── README.md
 
 
